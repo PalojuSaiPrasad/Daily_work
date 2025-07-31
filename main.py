@@ -39,4 +39,3 @@ while True:
         print("Result:", divide(num1, num2))
     else:
         print("Invalid input. Please try again.") 
-        
